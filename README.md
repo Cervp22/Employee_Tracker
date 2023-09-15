@@ -13,3 +13,6 @@ LANGUAGES USED:
 
 CONTACT: 
 If any questions contact me at paulcervantes2244@gmail.com
+
+resources for help: https://github.com/ThomasCalle/Thomas-SQL-Employee-Tracker 
+- code help me steer to the right direction and ask a lot of question. Helping me do this assignment.
